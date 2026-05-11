@@ -1,0 +1,144 @@
+🙂:
+Generate multiple-choice questions
+
+🤖 Smallpdf.com:
+Questions:
+1. What is one of the suggested skills for a project manager related to communication?
+  A. Listening
+  B. Budgeting
+  C. Scheduling
+  D. Risk Management
+
+2. What is the longest path in a project network diagram called?
+  A. Critical Path
+  B. Project Path
+  C. Main Path
+  D. Task Path
+
+3. What is the first step in finding the critical path?
+  A. Develop a good project network diagram
+  B. Add durations for activities
+  C. Identify stakeholders
+  D. Create a Gantt chart
+
+4. What does project integration management involve?
+  A. Coordinating tasks and resources
+  B. Creating a Gantt chart
+  C. Estimating costs
+  D. Defining project scope
+
+5. What is the purpose of a project kick-off meeting?
+  A. To put the project plan into action
+  B. To assess project feasibility
+  C. To define project scope
+  D. To create a resource plan
+
+
+Answers:
+1. A
+2. A
+3. A
+4. A
+5. A
+
+🙂:
+Make the questions harder
+
+🤖 Smallpdf.com:
+Questions:
+1. What is the primary focus of project integration management?
+  A. Coordinating all project elements
+  B. Estimating project costs
+  C. Defining project scope
+  D. Creating a Gantt chart
+
+2. Which process is NOT part of project time management?
+  A. Activity definition
+  B. Schedule control
+  C. Resource allocation
+  D. Activity duration estimating
+
+3. What is the first phase of a project life cycle?
+  A. Project initiation
+  B. Project planning
+  C. Project execution
+  D. Project closure
+
+4. What should be done after defining the scope of the project?
+  A. Identify and document alternative solutions
+  B. Create a Gantt chart
+  C. Assess project risks
+  D. Develop a budget plan
+
+5. What is a potential issue with defining tasks in too much detail?
+  A. It may complicate project management
+  B. It can improve team communication
+  C. It ensures all tasks are completed
+  D. It helps in resource allocation
+
+
+Answers:
+1. A
+2. C
+3. A
+4. A
+5. A
+
+🙂:
+Make the questions harder
+
+🤖 Smallpdf.com:
+Questions:
+
+
+Answers:
+
+
+🙂:
+Generate true-or-false questions
+
+🤖 Smallpdf.com:
+Questions:
+1. Project managers must work closely with the project sponsor and project team.
+  True
+  False
+
+
+2. The critical path is determined by the shortest path in the project network diagram.
+  True
+  False
+
+
+3. Project time management processes include activity sequencing and schedule control.
+  True
+  False
+
+
+4. The statement of work is not important for understanding project outcomes.
+  True
+  False
+
+
+5. Project selection involves choosing candidate projects using evaluation criteria.
+  True
+  False
+
+
+
+Answers:
+1. True
+2. False
+3. True
+4. False
+5. True
+
+🙂:
+Make the questions harder
+
+🤖 Smallpdf.com:
+Questions:
+
+
+Answers:
+
+
